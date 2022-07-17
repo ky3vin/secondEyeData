@@ -1,0 +1,6 @@
+gate
+signBoard
+warningBlock
+guideBlock
+restroom
+stationInfo
