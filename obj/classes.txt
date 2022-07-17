@@ -1,0 +1,3 @@
+gate
+upper_sign
+wall_sign
