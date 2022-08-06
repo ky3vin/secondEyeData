@@ -1,3 +1,8 @@
 gate
-upper_sign
-wall_sign
+signBoard
+warningBlock
+guideBlock
+restroom
+stationInfo
+staircase
+person
