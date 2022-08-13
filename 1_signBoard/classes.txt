@@ -1,5 +1,8 @@
 gate
 signBoard
-brailleBlock
+warningBlock
+guideBlock
 restroom
 stationInfo
+staircase
+person
