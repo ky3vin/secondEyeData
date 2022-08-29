@@ -4,3 +4,6 @@ warningBlock
 guideBlock
 restroom
 stationInfo
+staircase
+person
+warningBlocwk
