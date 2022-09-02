@@ -1,0 +1,26 @@
+<annotation>
+	<folder>표지판</folder>
+	<filename>signBoard (556).jpg</filename>
+	<path>C:\송이\졸프\표지판\signBoard (556).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1882</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>signBoard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>196</ymin>
+			<xmax>1196</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>
