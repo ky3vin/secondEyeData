@@ -6,4 +6,3 @@ restroom
 stationInfo
 staircase
 person
-warningBlocwk
