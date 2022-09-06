@@ -1,0 +1,50 @@
+<annotation>
+	<folder>점자 블록1</folder>
+	<filename>blockImg (359).jpg</filename>
+	<path>C:\송이\졸프\점자 블록1\blockImg (359).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>warningBlock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>2233</ymin>
+			<xmax>1094</xmax>
+			<ymax>2872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>warningBlock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1116</xmin>
+			<ymin>2255</ymin>
+			<xmax>1799</xmax>
+			<ymax>2929</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>warningBlock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1759</xmin>
+			<ymin>2225</ymin>
+			<xmax>2464</xmax>
+			<ymax>2920</ymax>
+		</bndbox>
+	</object>
+</annotation>
