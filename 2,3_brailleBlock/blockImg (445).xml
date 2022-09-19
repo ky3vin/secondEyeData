@@ -1,0 +1,62 @@
+<annotation>
+	<folder>점자 블록2</folder>
+	<filename>blockImg (445).jpg</filename>
+	<path>C:\송이\졸프\점자 블록2\blockImg (445).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guideBlock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>4</ymin>
+			<xmax>775</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>guideBlock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>392</ymin>
+			<xmax>847</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>guideBlock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>733</ymin>
+			<xmax>920</xmax>
+			<ymax>1149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>guideBlock</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>1121</ymin>
+			<xmax>1001</xmax>
+			<ymax>1440</ymax>
+		</bndbox>
+	</object>
+</annotation>
