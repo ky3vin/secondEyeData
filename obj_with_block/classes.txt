@@ -1,4 +1,4 @@
 gate
 person
-warning block
-guide block
+warningBlock
+guideBlock
